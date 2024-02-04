@@ -1,0 +1,18 @@
+.Statistics-details {
+  background-color: #f5c167;
+  height: 60%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 20px;
+  margin: 30px;
+}
+
+.Statistics-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
