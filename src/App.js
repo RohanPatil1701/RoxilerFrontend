@@ -1,5 +1,6 @@
 import Transactions from './components/Transactions'
 import Statistics from './components/Statistics'
+import TransactionBarChart from './components/TransactionBarChart'
 
 import './App.css'
 
@@ -40,6 +41,7 @@ const App = () => (
     </div>
     <Transactions />
     <Statistics />
+    <TransactionBarChart />
   </div>
 )
 
